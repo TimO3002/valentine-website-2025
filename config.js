@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['❤️', '💖', '💝', '💗', '🦞'],  // Heart emojis
+        bears: ['🧸', '🐿️']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you, I lob you! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you lob me?",                          // For the love meter
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "SUGAR GWIDDDDDDDDDDE!!! 🥰🐿️🚀💝",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "SUGAR GWIDEEEEEEEEEE! 🥰"                           // Shows when they go past 100%
+        normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest bug in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! I'm the luckiest bug in the world! 🐛🎉💝💖💝💓",
+        message: "Now come get your gift, cuddles and a huge kiss!",
+        emojis: "🎁🐛💖🤗💝🐿️💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
